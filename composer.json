@@ -1,0 +1,17 @@
+{
+    "name": "volcano/engine",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Volcano\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Seriously Not Beluga",
+            "email": "oskarniziol@gmail.com"
+        }
+    ],
+    "require": {}
+}
